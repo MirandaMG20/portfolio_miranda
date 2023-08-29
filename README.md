@@ -55,5 +55,5 @@ The website is built using the following technologies:
 If you would like to get in touch with Miranda or learn more about their projects, you can find them on GitHub and LinkedIn:
 
 - GitHub: [MirandaMG20](https://github.com/MirandaMG20)
-- LinkedIn: [M. G. Miranda](https://www.linkedin.com/in/m-g-miranda/)
-- Netlify: [Miranda Portfolio](https://portfolio-miranda.netlify.app/#portfolio)
+- LinkedIn: [M. G. Miranda](https://www.linkedin.com/in/m-g-miranda)
+- Netlify: [Miranda Portfolio](https://portfolio-miranda.netlify.app)
