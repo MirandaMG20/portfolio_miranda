@@ -44,8 +44,8 @@ To interact with the contact form, fill in your name, email, and a message. Then
 
 The website is built using the following technologies:
 
-- Figma: [Miranda-Portfolio](https://www.figma.com/file/Gml0Hj08qSdvbv6fcJnr9W/Miranda-Portfolio?type=whiteboard&node-id=0%3A1&t=r5DJUL0QrGmPfqO7-1)
-- Miro: [Miranda](https://miro.com/app/board/uXjVMti07F4=/?share_link_id=42389336594)
+- Wireframe: [Figma](https://www.figma.com/file/Gml0Hj08qSdvbv6fcJnr9W/Miranda-Portfolio?type=whiteboard&node-id=0%3A1&t=r5DJUL0QrGmPfqO7-1)
+- Wireframe: [Miro](https://miro.com/app/board/uXjVMti07F4=/?share_link_id=42389336594)
 - HTML5
 - CSS3 (including Bootstrap framework)
 - JavaScript (jQuery library)
