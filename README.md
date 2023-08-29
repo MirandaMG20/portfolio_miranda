@@ -31,7 +31,8 @@ The **Miranda Portfolio** website is designed to showcase Miranda's skills and p
 
 ## Screenshots
 
-![Miranda Portfolio](image.png)
+![Big-Device](image.png)
+![Small-Device](image-1.png)
 
 ## Usage
 
